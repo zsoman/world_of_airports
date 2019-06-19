@@ -133,5 +133,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# --longitude 21.9189 --latitude 47.0465 --radius 100000
